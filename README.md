@@ -14,10 +14,3 @@ Website: https://benbeehler.com
 - **Virgil** - A minimalist c/c++ web browser primarily for GNU/Linux systems [Coming Soon]
 - **Credo Ergo Sum** - A small publication dedicated to philosophical theology [Coming Soon]
 
-# Some Personal Details
-- **Workstation**: Artix Linux
-- **Laptop**: Kali Linux
-- **Home Server**: CentOS
-- **Favorite Programming Languages**: Java, C, and Ruby
-- **Favorite Text Editors**: NeoVim/LunarVim, VSCodium
-- **Favorite Java IDE**: Eclipse
