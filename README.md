@@ -9,7 +9,7 @@ Website: https://benbeehler.com
 - **Current Employment**: Project Lead @ Veritas Press
 
 # Projects
-- **VSABot** - An open source moderation bot for the Veritas Scholars Academy school forums.
+- **VSABot** - An open source moderation bot for the Veritas Scholars Academy school forums
 - **Guilds** - An open source Minecraft server guild plugin
 - **Beatrice** - An open source, minimalist microblog system [Coming Soon]
 - **Virgil** - A minimalist c/c++ web browser primarily for GNU/Linux systems [Coming Soon]
@@ -20,5 +20,5 @@ Website: https://benbeehler.com
 - **Laptop**: Kali Linux
 - **Home Server**: CentOS
 - **Favorite Programming Languages**: Java, C, and Ruby
-- **Favorite Text Editors**: Neovim/LunarVim, VSCodium
+- **Favorite Text Editors**: NeoVim/LunarVim, VSCodium
 - **Favorite Java IDE**: Eclipse
