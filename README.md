@@ -1,16 +1,23 @@
-### Hi there 👋
+### Ben Beehler 
 
-<!--
-**BenBeehler/benbeehler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Website: https://benbeehler.com
 
-Here are some ideas to get you started:
+# Organizations
+University: NC State University
+Major: Computer Science
+Grade: Junior
+Current Work: Project Lead @ Veritas Press
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+VSABot - An open source moderation bot for the Veritas Scholars Academy school forums.
+Guilds - An open source Minecraft server guild plugin
+Beatrice - An open source, minimalist microblog system [Coming Soon]
+Virgil - A minimalist c/c++ web browser primarily for GNU/Linux systems [Coming Soon]
+Credo Ergo Sum - A small publication dedicated to philosophical theology [Coming Soon]
+
+# Some Personal Details
+Workstation: Artix Linux
+Laptop: Kali Linux
+Home Server: CentOS
+Favorite Programming Languages: Java, C, and Ruby
+Favorite Text Editors: Neovim/LunarVim, VSCodium
