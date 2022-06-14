@@ -6,7 +6,7 @@ Website: https://benbeehler.com
 - **University**: NC State University
 - **Major**: Computer Science
 - **Grade**: Junior
-- **Current Work**: Project Lead @ Veritas Press
+- **Current Employment**: Project Lead @ Veritas Press
 
 # Projects
 - **VSABot** - An open source moderation bot for the Veritas Scholars Academy school forums.
