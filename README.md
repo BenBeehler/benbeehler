@@ -10,7 +10,6 @@ Website: https://benbeehler.com
 
 # Projects
 - **VSABot** - An open source moderation bot for the Veritas Scholars Academy school forums
-- **Guilds** - An open source Minecraft server guild plugin
 - **Beatrice** - An open source, minimalist microblog system [Coming Soon]
 - **Virgil** - A minimalist c/c++ web browser primarily for GNU/Linux systems [Coming Soon]
 - **Credo Ergo Sum** - A small publication dedicated to philosophical theology [Coming Soon]
