@@ -5,12 +5,10 @@ Website: https://benbeehler.com
 # Organizations
 - **University**: NC State University
 - **Major**: Computer Science
-- **Grade**: Junior
-- **Current Employment**: Project Lead @ Veritas Press
+- **Grade**: Sophomore
+- **Current Employment**: IT Specialist Part Time @ Veritas Press
 
-# Projects
+# Hobby Projects
 - **VSABot** - An open source moderation bot for the Veritas Scholars Academy school forums
 - **Virgil** - A minimalist C web browser primarily built for GNU/Linux systems
-- **Beatrice** - An open source, minimalist microblog system
-- **Credo Ergo Sum** - A small publication dedicated to philosophical theology built using Beatrice [Coming Soon]
 
