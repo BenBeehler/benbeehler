@@ -2,7 +2,7 @@
 
 Website: https://benbeehler.com
 
-# Organizations
+# Details
 - **University**: NC State University
 - **Major**: Computer Science
 - **Grade**: Sophomore
